@@ -199,4 +199,4 @@ def render(records, gran, seuil, f_cat, f_mot, f_nonlu):
 
 # 6. Lancement du serveur (diapo 34)
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
