@@ -104,14 +104,3 @@ By default, `MODE_SIMULATION = True` in `email_utils.py` so no external mail ser
 3. Update `smtp_server`, `smtp_port`, `sender_email`, `sender_password`, and `DESTINATAIRE_ALERTE` with your mail provider credentials (use an App Password if using Gmail/Outlook with 2FA).
 
 > Never commit real credentials to Git. Consider loading them from environment variables or a `.env` file (already excluded in `.gitignore`).
-
-## Troubleshooting
-
-- **PowerShell `Activate.ps1` blocked (`UnauthorizedAccess`):**
-  Run `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process` before activating, or run commands directly using `.\.venv\Scripts\python.exe -m pip install -r requirements.txt` and `.\.venv\Scripts\python.exe app.py`.
-- **`AttributeError: module 'pkgutil' has no attribute 'find_loader'` (Python 3.14 / 3.15+):**
-  Either upgrade Dash (`pip install --upgrade dash`) and change the last line of `app.py` from `app.run_server(debug=True)` to `app.run(debug=True)`, or change it to `app.run_server(debug=False)` when staying on Dash 2.x.
-- **`ImportError: DLL load failed` on Windows (`Application Control policy`):**
-  Windows Smart App Control can block unsigned `.pyd` extensions in `numpy`/`pandas`. Run the project inside **WSL (Ubuntu)** using the Linux instructions above (the dashboard will still open at `http://127.0.0.1:8050` in your Windows browser), or disable Smart App Control in Windows Security.
-- **Port `8050` already in use:**
-  Change the last line of `app.py` to `app.run_server(debug=True, port=8051)` (or `app.run(debug=True, port=8051)` on Dash 3+) and open `http://127.0.0.1:8051`.
