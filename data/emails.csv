@@ -1,0 +1,431 @@
+Date,direction,categorie,contact,sujet,lu
+2026-11-17 17:14:00,reçu,réclamation,amine@mail.com,Colis endommagé,True
+2026-11-17 17:05:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-17 18:32:00,reçu,réclamation,amine@mail.com,Remboursement demandé,True
+2026-11-17 18:14:00,envoyé,support,omar@mail.com,Problème de connexion,True
+2026-11-17 18:51:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-17 19:17:00,reçu,commande,youssef@mail.com,Nouvelle commande #4527,False
+2026-11-17 19:06:00,reçu,commande,omar@mail.com,Commande express #6635,False
+2026-11-17 19:46:00,reçu,réclamation,omar@mail.com,Retard de livraison,False
+2026-11-17 19:35:00,envoyé,vente,omar@mail.com,Devis personnalisé,True
+2026-11-17 20:12:00,reçu,support,amine@mail.com,Demande d'information,False
+2026-11-17 20:49:00,reçu,réclamation,amine@mail.com,Retard de livraison,True
+2026-11-17 21:29:00,reçu,commande,sara@mail.com,Commande en gros #6977,False
+2026-11-17 21:42:00,reçu,réclamation,amine@mail.com,Retard de livraison,True
+2026-11-17 21:34:00,reçu,réclamation,sara@mail.com,Remboursement demandé,False
+2026-11-17 21:59:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-17 22:20:00,reçu,support,sara@mail.com,Question sur ma facture,True
+2026-11-17 22:17:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-17 23:41:00,reçu,réclamation,salma@mail.com,Retard de livraison,True
+2026-11-17 23:29:00,reçu,support,youssef@mail.com,Question sur ma facture,False
+2026-11-17 23:47:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-17 23:23:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-18 00:48:00,reçu,réclamation,amine@mail.com,Colis endommagé,False
+2026-11-18 00:50:00,reçu,réclamation,salma@mail.com,Remboursement demandé,True
+2026-11-18 00:24:00,reçu,commande,omar@mail.com,Commande en gros #8668,False
+2026-11-18 00:43:00,envoyé,vente,amine@mail.com,Votre facture de vente,True
+2026-11-18 00:49:00,envoyé,support,youssef@mail.com,Demande d'information,True
+2026-11-18 01:10:00,envoyé,support,amine@mail.com,Problème de connexion,True
+2026-11-18 02:48:00,reçu,support,omar@mail.com,Question sur ma facture,True
+2026-11-18 02:19:00,reçu,support,omar@mail.com,Demande d'information,True
+2026-11-18 03:34:00,reçu,réclamation,amine@mail.com,Remboursement demandé,True
+2026-11-18 03:01:00,reçu,commande,youssef@mail.com,Nouvelle commande #6947,False
+2026-11-18 05:48:00,reçu,réclamation,sara@mail.com,Remboursement demandé,False
+2026-11-18 05:35:00,reçu,commande,omar@mail.com,Nouvelle commande #5342,True
+2026-11-18 05:13:00,reçu,commande,youssef@mail.com,Commande en gros #4295,False
+2026-11-18 05:28:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-18 05:15:00,envoyé,vente,amine@mail.com,Offre spéciale -20%,True
+2026-11-18 06:37:00,reçu,réclamation,sara@mail.com,Remboursement demandé,True
+2026-11-18 06:04:00,reçu,réclamation,amine@mail.com,Remboursement demandé,False
+2026-11-18 07:32:00,reçu,réclamation,youssef@mail.com,Colis endommagé,True
+2026-11-18 07:34:00,reçu,réclamation,omar@mail.com,Colis endommagé,True
+2026-11-18 08:12:00,reçu,commande,salma@mail.com,Nouvelle commande #2588,False
+2026-11-18 08:29:00,reçu,commande,amine@mail.com,Commande en gros #1887,False
+2026-11-18 08:21:00,reçu,support,sara@mail.com,Question sur ma facture,False
+2026-11-18 08:08:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-18 08:29:00,envoyé,support,amine@mail.com,Question sur ma facture,True
+2026-11-18 09:06:00,reçu,support,omar@mail.com,Question sur ma facture,True
+2026-11-18 09:59:00,reçu,réclamation,sara@mail.com,Colis endommagé,True
+2026-11-18 09:13:00,reçu,commande,sara@mail.com,Commande express #1960,False
+2026-11-18 09:59:00,envoyé,support,youssef@mail.com,Problème de connexion,True
+2026-11-18 10:46:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-18 10:13:00,reçu,commande,amine@mail.com,Nouvelle commande #9883,True
+2026-11-18 10:03:00,reçu,réclamation,salma@mail.com,Remboursement demandé,True
+2026-11-18 10:03:00,envoyé,vente,amine@mail.com,Votre facture de vente,True
+2026-11-18 10:04:00,envoyé,vente,amine@mail.com,Votre facture de vente,True
+2026-11-18 11:07:00,reçu,commande,omar@mail.com,Commande en gros #5033,True
+2026-11-18 11:26:00,envoyé,vente,omar@mail.com,Votre facture de vente,True
+2026-11-18 11:59:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-18 12:16:00,reçu,réclamation,sara@mail.com,Retard de livraison,True
+2026-11-18 12:29:00,reçu,commande,amine@mail.com,Commande express #2188,True
+2026-11-18 12:04:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-18 12:08:00,envoyé,support,amine@mail.com,Problème de connexion,True
+2026-11-18 13:18:00,reçu,commande,omar@mail.com,Nouvelle commande #8179,True
+2026-11-18 13:42:00,envoyé,vente,youssef@mail.com,Votre facture de vente,True
+2026-11-18 13:56:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-18 15:18:00,reçu,commande,youssef@mail.com,Commande en gros #4450,False
+2026-11-18 15:32:00,envoyé,support,youssef@mail.com,Problème de connexion,True
+2026-11-18 15:05:00,envoyé,vente,salma@mail.com,Votre facture de vente,True
+2026-11-18 16:00:00,reçu,réclamation,sara@mail.com,Retard de livraison,True
+2026-11-18 16:10:00,reçu,commande,omar@mail.com,Commande en gros #8239,True
+2026-11-18 16:07:00,envoyé,vente,sara@mail.com,Offre spéciale -20%,True
+2026-11-18 16:53:00,envoyé,vente,omar@mail.com,Devis personnalisé,True
+2026-11-18 17:08:00,reçu,commande,youssef@mail.com,Nouvelle commande #6050,True
+2026-11-18 18:43:00,reçu,réclamation,amine@mail.com,Colis endommagé,False
+2026-11-18 18:56:00,reçu,support,omar@mail.com,Problème de connexion,True
+2026-11-18 19:56:00,reçu,réclamation,amine@mail.com,Retard de livraison,False
+2026-11-18 19:51:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-18 20:50:00,reçu,réclamation,amine@mail.com,Remboursement demandé,False
+2026-11-18 20:54:00,reçu,réclamation,sara@mail.com,Retard de livraison,False
+2026-11-18 20:19:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-18 21:25:00,envoyé,vente,youssef@mail.com,Devis personnalisé,True
+2026-11-18 21:49:00,envoyé,vente,youssef@mail.com,Devis personnalisé,True
+2026-11-18 22:53:00,reçu,support,youssef@mail.com,Demande d'information,True
+2026-11-18 22:56:00,reçu,réclamation,sara@mail.com,Retard de livraison,True
+2026-11-18 22:02:00,reçu,commande,youssef@mail.com,Nouvelle commande #8119,True
+2026-11-18 22:38:00,envoyé,support,amine@mail.com,Demande d'information,True
+2026-11-18 23:12:00,reçu,support,amine@mail.com,Problème de connexion,True
+2026-11-18 23:33:00,reçu,réclamation,sara@mail.com,Remboursement demandé,False
+2026-11-18 23:42:00,reçu,réclamation,omar@mail.com,Retard de livraison,False
+2026-11-19 00:19:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-19 00:18:00,reçu,support,sara@mail.com,Demande d'information,False
+2026-11-19 00:43:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-19 00:25:00,envoyé,support,amine@mail.com,Demande d'information,True
+2026-11-19 01:13:00,reçu,commande,salma@mail.com,Commande express #6279,True
+2026-11-19 01:13:00,reçu,support,salma@mail.com,Demande d'information,True
+2026-11-19 01:42:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-19 01:05:00,envoyé,support,youssef@mail.com,Question sur ma facture,True
+2026-11-19 02:09:00,reçu,réclamation,amine@mail.com,Colis endommagé,False
+2026-11-19 02:29:00,envoyé,vente,omar@mail.com,Devis personnalisé,True
+2026-11-19 03:44:00,reçu,support,salma@mail.com,Problème de connexion,False
+2026-11-19 05:11:00,reçu,réclamation,omar@mail.com,Remboursement demandé,True
+2026-11-19 05:15:00,reçu,support,salma@mail.com,Question sur ma facture,False
+2026-11-19 05:42:00,reçu,commande,salma@mail.com,Commande en gros #6198,True
+2026-11-19 05:53:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-19 05:47:00,envoyé,vente,salma@mail.com,Devis personnalisé,True
+2026-11-19 06:53:00,reçu,réclamation,youssef@mail.com,Remboursement demandé,True
+2026-11-19 06:31:00,reçu,support,sara@mail.com,Demande d'information,False
+2026-11-19 07:17:00,reçu,réclamation,youssef@mail.com,Retard de livraison,True
+2026-11-19 07:08:00,reçu,réclamation,sara@mail.com,Colis endommagé,False
+2026-11-19 08:26:00,reçu,réclamation,youssef@mail.com,Retard de livraison,True
+2026-11-19 08:13:00,envoyé,vente,salma@mail.com,Devis personnalisé,True
+2026-11-19 09:30:00,envoyé,support,youssef@mail.com,Question sur ma facture,True
+2026-11-19 09:48:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-19 10:14:00,reçu,commande,salma@mail.com,Commande express #8140,False
+2026-11-19 10:46:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-19 11:34:00,reçu,support,salma@mail.com,Question sur ma facture,True
+2026-11-19 11:05:00,envoyé,vente,salma@mail.com,Votre facture de vente,True
+2026-11-19 11:55:00,envoyé,vente,sara@mail.com,Devis personnalisé,True
+2026-11-19 12:20:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-19 13:48:00,reçu,commande,salma@mail.com,Commande express #5558,False
+2026-11-19 13:30:00,reçu,réclamation,omar@mail.com,Colis endommagé,False
+2026-11-19 13:41:00,envoyé,vente,amine@mail.com,Offre spéciale -20%,True
+2026-11-19 15:39:00,reçu,réclamation,sara@mail.com,Colis endommagé,False
+2026-11-19 15:36:00,envoyé,vente,salma@mail.com,Offre spéciale -20%,True
+2026-11-19 15:49:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-19 17:37:00,reçu,réclamation,youssef@mail.com,Colis endommagé,True
+2026-11-19 17:25:00,reçu,commande,amine@mail.com,Commande en gros #4249,True
+2026-11-19 17:06:00,envoyé,vente,youssef@mail.com,Votre facture de vente,True
+2026-11-19 17:50:00,envoyé,vente,amine@mail.com,Votre facture de vente,True
+2026-11-19 18:27:00,reçu,support,youssef@mail.com,Demande d'information,False
+2026-11-19 18:21:00,reçu,support,salma@mail.com,Question sur ma facture,True
+2026-11-19 19:40:00,reçu,commande,salma@mail.com,Commande express #3506,False
+2026-11-19 19:41:00,reçu,support,omar@mail.com,Problème de connexion,True
+2026-11-19 19:49:00,reçu,support,salma@mail.com,Problème de connexion,True
+2026-11-19 19:20:00,envoyé,support,amine@mail.com,Question sur ma facture,True
+2026-11-19 19:56:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-19 20:39:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-19 20:54:00,reçu,commande,salma@mail.com,Commande express #3979,False
+2026-11-19 20:21:00,reçu,commande,omar@mail.com,Commande express #5526,False
+2026-11-19 22:35:00,reçu,commande,salma@mail.com,Nouvelle commande #8800,True
+2026-11-19 22:05:00,reçu,réclamation,sara@mail.com,Retard de livraison,True
+2026-11-19 22:19:00,reçu,réclamation,omar@mail.com,Remboursement demandé,False
+2026-11-19 22:27:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-19 22:22:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-19 23:16:00,reçu,commande,sara@mail.com,Nouvelle commande #2976,False
+2026-11-19 23:34:00,reçu,support,sara@mail.com,Demande d'information,False
+2026-11-19 23:17:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-19 23:06:00,envoyé,support,youssef@mail.com,Question sur ma facture,True
+2026-11-20 00:11:00,reçu,commande,omar@mail.com,Commande express #1231,False
+2026-11-20 01:44:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-20 01:55:00,envoyé,vente,omar@mail.com,Offre spéciale -20%,True
+2026-11-20 02:30:00,reçu,commande,sara@mail.com,Commande express #6582,True
+2026-11-20 02:55:00,reçu,commande,amine@mail.com,Commande express #2869,True
+2026-11-20 04:19:00,reçu,support,sara@mail.com,Question sur ma facture,False
+2026-11-20 04:49:00,envoyé,vente,salma@mail.com,Votre facture de vente,True
+2026-11-20 05:19:00,reçu,commande,youssef@mail.com,Commande en gros #8025,True
+2026-11-20 05:39:00,reçu,réclamation,amine@mail.com,Remboursement demandé,True
+2026-11-20 05:40:00,reçu,réclamation,youssef@mail.com,Colis endommagé,True
+2026-11-20 06:35:00,reçu,réclamation,sara@mail.com,Colis endommagé,False
+2026-11-20 06:18:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-20 07:18:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-20 07:59:00,reçu,réclamation,omar@mail.com,Retard de livraison,True
+2026-11-20 08:34:00,reçu,réclamation,sara@mail.com,Colis endommagé,True
+2026-11-20 08:04:00,reçu,réclamation,sara@mail.com,Colis endommagé,True
+2026-11-20 08:47:00,reçu,support,youssef@mail.com,Demande d'information,True
+2026-11-20 08:44:00,envoyé,support,youssef@mail.com,Problème de connexion,True
+2026-11-20 09:05:00,reçu,commande,salma@mail.com,Commande en gros #1653,True
+2026-11-20 09:16:00,reçu,support,amine@mail.com,Question sur ma facture,False
+2026-11-20 09:53:00,reçu,support,omar@mail.com,Demande d'information,True
+2026-11-20 09:36:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-20 09:33:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-20 10:37:00,reçu,réclamation,salma@mail.com,Retard de livraison,True
+2026-11-20 10:22:00,reçu,commande,youssef@mail.com,Commande express #6460,True
+2026-11-20 11:44:00,reçu,commande,salma@mail.com,Commande express #5722,True
+2026-11-20 11:02:00,reçu,support,amine@mail.com,Problème de connexion,False
+2026-11-20 11:49:00,envoyé,vente,omar@mail.com,Devis personnalisé,True
+2026-11-20 12:26:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-20 12:39:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-20 14:08:00,reçu,support,salma@mail.com,Problème de connexion,True
+2026-11-20 14:07:00,reçu,commande,sara@mail.com,Nouvelle commande #4920,False
+2026-11-20 15:14:00,reçu,réclamation,salma@mail.com,Colis endommagé,True
+2026-11-20 15:53:00,reçu,support,salma@mail.com,Question sur ma facture,True
+2026-11-20 15:32:00,reçu,commande,salma@mail.com,Commande en gros #5479,True
+2026-11-20 15:29:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-20 16:58:00,reçu,réclamation,omar@mail.com,Remboursement demandé,True
+2026-11-20 16:55:00,reçu,réclamation,youssef@mail.com,Colis endommagé,True
+2026-11-20 16:21:00,reçu,commande,amine@mail.com,Commande en gros #5377,False
+2026-11-20 16:55:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-20 17:21:00,reçu,commande,salma@mail.com,Commande en gros #9903,True
+2026-11-20 17:55:00,reçu,commande,omar@mail.com,Nouvelle commande #4912,False
+2026-11-20 17:02:00,reçu,commande,salma@mail.com,Commande express #8749,False
+2026-11-20 17:31:00,envoyé,vente,sara@mail.com,Offre spéciale -20%,True
+2026-11-20 17:55:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-20 18:00:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-20 18:55:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-20 19:21:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-20 20:20:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-20 21:15:00,envoyé,vente,youssef@mail.com,Votre facture de vente,True
+2026-11-20 21:47:00,envoyé,vente,salma@mail.com,Offre spéciale -20%,True
+2026-11-20 22:28:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-20 22:02:00,envoyé,vente,amine@mail.com,Devis personnalisé,True
+2026-11-20 23:23:00,reçu,commande,sara@mail.com,Commande express #3385,True
+2026-11-20 23:43:00,reçu,support,sara@mail.com,Question sur ma facture,False
+2026-11-20 23:39:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-20 23:58:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-21 00:40:00,reçu,commande,youssef@mail.com,Commande express #8529,True
+2026-11-21 00:43:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-21 01:37:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-21 02:54:00,reçu,commande,salma@mail.com,Commande express #4263,True
+2026-11-21 02:15:00,reçu,réclamation,omar@mail.com,Retard de livraison,False
+2026-11-21 02:01:00,envoyé,support,salma@mail.com,Demande d'information,True
+2026-11-21 03:36:00,reçu,réclamation,amine@mail.com,Remboursement demandé,True
+2026-11-21 03:31:00,reçu,support,sara@mail.com,Problème de connexion,True
+2026-11-21 03:40:00,envoyé,vente,omar@mail.com,Offre spéciale -20%,True
+2026-11-21 04:48:00,reçu,support,sara@mail.com,Demande d'information,True
+2026-11-21 04:41:00,reçu,support,youssef@mail.com,Question sur ma facture,True
+2026-11-21 05:08:00,reçu,support,youssef@mail.com,Question sur ma facture,False
+2026-11-21 05:11:00,reçu,commande,omar@mail.com,Nouvelle commande #3165,True
+2026-11-21 05:53:00,envoyé,support,youssef@mail.com,Question sur ma facture,True
+2026-11-21 06:47:00,reçu,commande,salma@mail.com,Commande express #2886,True
+2026-11-21 06:48:00,reçu,réclamation,salma@mail.com,Colis endommagé,True
+2026-11-21 06:23:00,reçu,support,salma@mail.com,Question sur ma facture,False
+2026-11-21 06:29:00,envoyé,vente,youssef@mail.com,Devis personnalisé,True
+2026-11-21 06:52:00,envoyé,support,youssef@mail.com,Demande d'information,True
+2026-11-21 07:30:00,envoyé,vente,omar@mail.com,Offre spéciale -20%,True
+2026-11-21 07:58:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-21 08:58:00,envoyé,support,youssef@mail.com,Demande d'information,True
+2026-11-21 08:07:00,envoyé,support,amine@mail.com,Question sur ma facture,True
+2026-11-21 09:07:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-21 10:29:00,reçu,commande,salma@mail.com,Commande express #9850,True
+2026-11-21 10:56:00,envoyé,vente,amine@mail.com,Devis personnalisé,True
+2026-11-21 10:39:00,envoyé,support,youssef@mail.com,Problème de connexion,True
+2026-11-21 11:13:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-21 11:54:00,envoyé,vente,amine@mail.com,Devis personnalisé,True
+2026-11-21 12:57:00,reçu,support,youssef@mail.com,Demande d'information,False
+2026-11-21 12:12:00,reçu,commande,amine@mail.com,Nouvelle commande #8450,True
+2026-11-21 12:03:00,envoyé,vente,sara@mail.com,Devis personnalisé,True
+2026-11-21 12:50:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-21 13:37:00,envoyé,vente,sara@mail.com,Offre spéciale -20%,True
+2026-11-21 13:49:00,envoyé,support,omar@mail.com,Question sur ma facture,True
+2026-11-21 14:08:00,envoyé,vente,youssef@mail.com,Votre facture de vente,True
+2026-11-21 15:42:00,reçu,réclamation,sara@mail.com,Colis endommagé,False
+2026-11-21 16:11:00,reçu,réclamation,amine@mail.com,Retard de livraison,False
+2026-11-21 16:33:00,reçu,commande,salma@mail.com,Nouvelle commande #2041,True
+2026-11-21 16:28:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-21 17:29:00,envoyé,support,amine@mail.com,Demande d'information,True
+2026-11-21 17:30:00,envoyé,vente,salma@mail.com,Devis personnalisé,True
+2026-11-21 18:04:00,envoyé,support,youssef@mail.com,Question sur ma facture,True
+2026-11-21 19:08:00,reçu,réclamation,omar@mail.com,Retard de livraison,True
+2026-11-21 19:24:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-21 19:29:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-21 20:50:00,reçu,réclamation,amine@mail.com,Remboursement demandé,True
+2026-11-21 20:56:00,reçu,support,sara@mail.com,Demande d'information,True
+2026-11-21 20:26:00,reçu,réclamation,salma@mail.com,Retard de livraison,False
+2026-11-21 20:20:00,envoyé,vente,youssef@mail.com,Devis personnalisé,True
+2026-11-21 20:23:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-21 23:47:00,reçu,réclamation,youssef@mail.com,Remboursement demandé,True
+2026-11-21 23:03:00,reçu,support,omar@mail.com,Demande d'information,True
+2026-11-21 23:07:00,reçu,support,youssef@mail.com,Problème de connexion,True
+2026-11-21 23:18:00,envoyé,vente,youssef@mail.com,Votre facture de vente,True
+2026-11-22 00:36:00,reçu,réclamation,sara@mail.com,Remboursement demandé,False
+2026-11-22 00:14:00,reçu,commande,omar@mail.com,Nouvelle commande #6736,False
+2026-11-22 00:51:00,envoyé,vente,omar@mail.com,Devis personnalisé,True
+2026-11-22 01:01:00,envoyé,support,youssef@mail.com,Question sur ma facture,True
+2026-11-22 01:58:00,envoyé,support,youssef@mail.com,Problème de connexion,True
+2026-11-22 03:42:00,reçu,support,amine@mail.com,Problème de connexion,False
+2026-11-22 03:05:00,envoyé,vente,omar@mail.com,Votre facture de vente,True
+2026-11-22 03:24:00,envoyé,vente,salma@mail.com,Devis personnalisé,True
+2026-11-22 04:23:00,reçu,réclamation,youssef@mail.com,Retard de livraison,True
+2026-11-22 04:38:00,reçu,support,amine@mail.com,Question sur ma facture,False
+2026-11-22 04:43:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-22 04:42:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-22 05:17:00,reçu,commande,amine@mail.com,Nouvelle commande #9394,False
+2026-11-22 05:18:00,reçu,réclamation,omar@mail.com,Remboursement demandé,True
+2026-11-22 05:19:00,reçu,support,sara@mail.com,Question sur ma facture,False
+2026-11-22 05:00:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-22 05:49:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-22 06:07:00,reçu,commande,salma@mail.com,Nouvelle commande #9149,False
+2026-11-22 06:34:00,reçu,commande,omar@mail.com,Commande en gros #4770,True
+2026-11-22 06:04:00,envoyé,support,amine@mail.com,Problème de connexion,True
+2026-11-22 06:01:00,envoyé,support,amine@mail.com,Problème de connexion,True
+2026-11-22 07:27:00,reçu,support,salma@mail.com,Demande d'information,True
+2026-11-22 07:18:00,reçu,commande,amine@mail.com,Nouvelle commande #7636,True
+2026-11-22 08:58:00,reçu,support,amine@mail.com,Problème de connexion,True
+2026-11-22 08:15:00,reçu,réclamation,omar@mail.com,Retard de livraison,True
+2026-11-22 08:25:00,reçu,réclamation,youssef@mail.com,Retard de livraison,False
+2026-11-22 09:33:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-22 09:22:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-22 10:09:00,reçu,réclamation,sara@mail.com,Retard de livraison,False
+2026-11-22 12:48:00,reçu,commande,omar@mail.com,Commande en gros #8354,True
+2026-11-22 12:20:00,reçu,support,youssef@mail.com,Demande d'information,False
+2026-11-22 12:30:00,reçu,réclamation,youssef@mail.com,Retard de livraison,True
+2026-11-22 12:22:00,envoyé,vente,amine@mail.com,Votre facture de vente,True
+2026-11-22 12:29:00,envoyé,support,amine@mail.com,Problème de connexion,True
+2026-11-22 13:04:00,envoyé,support,amine@mail.com,Demande d'information,True
+2026-11-22 14:37:00,reçu,commande,salma@mail.com,Commande en gros #1672,True
+2026-11-22 14:41:00,reçu,support,youssef@mail.com,Question sur ma facture,True
+2026-11-22 14:09:00,reçu,support,salma@mail.com,Question sur ma facture,False
+2026-11-22 14:32:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-22 16:33:00,reçu,commande,youssef@mail.com,Commande en gros #3600,False
+2026-11-22 16:24:00,reçu,commande,omar@mail.com,Commande express #6543,False
+2026-11-22 16:41:00,reçu,support,amine@mail.com,Problème de connexion,False
+2026-11-22 16:18:00,envoyé,support,omar@mail.com,Problème de connexion,True
+2026-11-22 16:21:00,envoyé,vente,omar@mail.com,Offre spéciale -20%,True
+2026-11-22 17:19:00,reçu,commande,sara@mail.com,Commande en gros #7421,True
+2026-11-22 18:24:00,reçu,support,youssef@mail.com,Demande d'information,True
+2026-11-22 18:44:00,reçu,support,omar@mail.com,Demande d'information,False
+2026-11-22 18:32:00,envoyé,support,amine@mail.com,Problème de connexion,True
+2026-11-22 18:19:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-22 19:12:00,reçu,commande,sara@mail.com,Nouvelle commande #3253,False
+2026-11-22 19:32:00,reçu,réclamation,omar@mail.com,Remboursement demandé,False
+2026-11-22 19:38:00,envoyé,vente,sara@mail.com,Devis personnalisé,True
+2026-11-22 20:53:00,reçu,réclamation,omar@mail.com,Remboursement demandé,True
+2026-11-22 21:26:00,reçu,réclamation,sara@mail.com,Retard de livraison,True
+2026-11-22 21:18:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-22 21:19:00,reçu,réclamation,sara@mail.com,Retard de livraison,False
+2026-11-22 21:29:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-22 21:10:00,envoyé,support,omar@mail.com,Question sur ma facture,True
+2026-11-22 22:03:00,reçu,commande,youssef@mail.com,Commande en gros #8873,True
+2026-11-22 23:48:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-23 00:09:00,reçu,support,amine@mail.com,Problème de connexion,True
+2026-11-23 00:52:00,reçu,réclamation,youssef@mail.com,Retard de livraison,True
+2026-11-23 00:03:00,reçu,commande,youssef@mail.com,Commande express #9224,False
+2026-11-23 01:01:00,reçu,réclamation,amine@mail.com,Retard de livraison,True
+2026-11-23 01:21:00,reçu,support,sara@mail.com,Question sur ma facture,False
+2026-11-23 01:48:00,envoyé,vente,salma@mail.com,Votre facture de vente,True
+2026-11-23 02:00:00,reçu,support,amine@mail.com,Question sur ma facture,False
+2026-11-23 02:35:00,reçu,réclamation,omar@mail.com,Remboursement demandé,True
+2026-11-23 02:49:00,reçu,réclamation,sara@mail.com,Retard de livraison,False
+2026-11-23 03:40:00,reçu,commande,amine@mail.com,Commande en gros #8489,False
+2026-11-23 03:40:00,envoyé,vente,omar@mail.com,Votre facture de vente,True
+2026-11-23 04:09:00,reçu,support,salma@mail.com,Problème de connexion,False
+2026-11-23 04:36:00,envoyé,vente,sara@mail.com,Devis personnalisé,True
+2026-11-23 05:04:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-23 05:24:00,envoyé,vente,amine@mail.com,Devis personnalisé,True
+2026-11-23 06:16:00,reçu,commande,youssef@mail.com,Commande en gros #1266,True
+2026-11-23 06:15:00,reçu,commande,omar@mail.com,Commande en gros #2698,True
+2026-11-23 06:08:00,reçu,commande,omar@mail.com,Nouvelle commande #6772,False
+2026-11-23 06:53:00,envoyé,vente,salma@mail.com,Votre facture de vente,True
+2026-11-23 06:40:00,envoyé,support,sara@mail.com,Question sur ma facture,True
+2026-11-23 07:02:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-23 07:50:00,envoyé,vente,amine@mail.com,Offre spéciale -20%,True
+2026-11-23 08:32:00,reçu,commande,salma@mail.com,Commande express #9897,False
+2026-11-23 08:12:00,reçu,support,youssef@mail.com,Problème de connexion,True
+2026-11-23 09:07:00,reçu,commande,salma@mail.com,Commande express #8159,True
+2026-11-23 09:21:00,reçu,commande,salma@mail.com,Nouvelle commande #9129,False
+2026-11-23 09:51:00,envoyé,support,salma@mail.com,Question sur ma facture,True
+2026-11-23 09:27:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-23 10:06:00,reçu,commande,youssef@mail.com,Nouvelle commande #6372,False
+2026-11-23 10:45:00,reçu,support,sara@mail.com,Problème de connexion,True
+2026-11-23 10:02:00,envoyé,support,youssef@mail.com,Demande d'information,True
+2026-11-23 11:40:00,reçu,commande,salma@mail.com,Nouvelle commande #2229,False
+2026-11-23 11:43:00,reçu,support,amine@mail.com,Question sur ma facture,False
+2026-11-23 11:43:00,reçu,support,amine@mail.com,Problème de connexion,False
+2026-11-23 12:24:00,reçu,commande,omar@mail.com,Commande en gros #1530,False
+2026-11-23 12:23:00,reçu,commande,amine@mail.com,Commande express #8273,True
+2026-11-23 12:25:00,envoyé,support,youssef@mail.com,Problème de connexion,True
+2026-11-23 12:07:00,envoyé,vente,sara@mail.com,Offre spéciale -20%,True
+2026-11-23 13:24:00,reçu,support,amine@mail.com,Demande d'information,False
+2026-11-23 13:45:00,reçu,commande,omar@mail.com,Commande express #4515,False
+2026-11-23 13:12:00,reçu,commande,amine@mail.com,Nouvelle commande #3223,True
+2026-11-23 13:05:00,envoyé,support,youssef@mail.com,Demande d'information,True
+2026-11-23 13:45:00,envoyé,support,omar@mail.com,Question sur ma facture,True
+2026-11-23 14:54:00,reçu,commande,youssef@mail.com,Nouvelle commande #3852,True
+2026-11-23 14:12:00,reçu,réclamation,sara@mail.com,Colis endommagé,True
+2026-11-23 15:36:00,reçu,support,salma@mail.com,Problème de connexion,True
+2026-11-23 15:08:00,reçu,support,amine@mail.com,Demande d'information,False
+2026-11-23 15:33:00,envoyé,support,salma@mail.com,Problème de connexion,True
+2026-11-23 17:04:00,reçu,support,salma@mail.com,Problème de connexion,True
+2026-11-23 17:08:00,reçu,commande,sara@mail.com,Commande en gros #3981,True
+2026-11-23 18:19:00,envoyé,vente,sara@mail.com,Offre spéciale -20%,True
+2026-11-23 18:59:00,envoyé,support,sara@mail.com,Demande d'information,True
+2026-11-23 19:57:00,reçu,support,amine@mail.com,Problème de connexion,False
+2026-11-23 19:35:00,reçu,support,sara@mail.com,Problème de connexion,True
+2026-11-23 19:32:00,envoyé,vente,sara@mail.com,Votre facture de vente,True
+2026-11-23 19:10:00,envoyé,vente,omar@mail.com,Votre facture de vente,True
+2026-11-23 20:02:00,reçu,support,amine@mail.com,Question sur ma facture,False
+2026-11-23 20:49:00,reçu,support,youssef@mail.com,Demande d'information,True
+2026-11-23 20:39:00,envoyé,support,amine@mail.com,Demande d'information,True
+2026-11-23 20:56:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-23 21:19:00,reçu,support,sara@mail.com,Problème de connexion,True
+2026-11-23 21:25:00,reçu,support,salma@mail.com,Problème de connexion,False
+2026-11-23 22:26:00,reçu,commande,sara@mail.com,Commande express #8609,False
+2026-11-23 23:20:00,reçu,support,youssef@mail.com,Demande d'information,True
+2026-11-23 23:48:00,reçu,réclamation,omar@mail.com,Retard de livraison,True
+2026-11-23 23:29:00,envoyé,vente,youssef@mail.com,Offre spéciale -20%,True
+2026-11-24 00:09:00,reçu,réclamation,amine@mail.com,Colis endommagé,False
+2026-11-24 00:55:00,reçu,commande,sara@mail.com,Commande en gros #7850,True
+2026-11-24 00:52:00,reçu,réclamation,omar@mail.com,Retard de livraison,True
+2026-11-24 01:32:00,reçu,commande,youssef@mail.com,Commande express #9171,True
+2026-11-24 02:29:00,reçu,support,sara@mail.com,Question sur ma facture,True
+2026-11-24 02:03:00,reçu,réclamation,salma@mail.com,Retard de livraison,True
+2026-11-24 02:43:00,reçu,support,youssef@mail.com,Problème de connexion,True
+2026-11-24 03:56:00,reçu,réclamation,youssef@mail.com,Retard de livraison,True
+2026-11-24 03:02:00,reçu,commande,omar@mail.com,Commande express #1838,True
+2026-11-24 03:35:00,reçu,commande,salma@mail.com,Commande express #2204,True
+2026-11-24 03:52:00,envoyé,support,omar@mail.com,Demande d'information,True
+2026-11-24 03:08:00,envoyé,vente,salma@mail.com,Offre spéciale -20%,True
+2026-11-24 04:35:00,reçu,commande,sara@mail.com,Commande express #3363,True
+2026-11-24 04:32:00,reçu,commande,amine@mail.com,Nouvelle commande #1742,False
+2026-11-24 04:33:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-24 05:59:00,reçu,commande,sara@mail.com,Commande en gros #6218,False
+2026-11-24 05:37:00,envoyé,support,omar@mail.com,Problème de connexion,True
+2026-11-24 05:45:00,envoyé,support,youssef@mail.com,Demande d'information,True
+2026-11-24 06:23:00,reçu,réclamation,amine@mail.com,Retard de livraison,True
+2026-11-24 06:19:00,reçu,support,amine@mail.com,Demande d'information,True
+2026-11-24 06:41:00,reçu,commande,amine@mail.com,Commande en gros #4728,True
+2026-11-24 07:52:00,reçu,réclamation,sara@mail.com,Remboursement demandé,False
+2026-11-24 07:07:00,reçu,support,amine@mail.com,Question sur ma facture,True
+2026-11-24 07:09:00,reçu,commande,salma@mail.com,Commande express #4340,True
+2026-11-24 07:55:00,envoyé,support,amine@mail.com,Demande d'information,True
+2026-11-24 07:33:00,envoyé,vente,omar@mail.com,Offre spéciale -20%,True
+2026-11-24 08:30:00,reçu,support,salma@mail.com,Demande d'information,False
+2026-11-24 08:29:00,reçu,réclamation,youssef@mail.com,Remboursement demandé,True
+2026-11-24 08:39:00,envoyé,support,sara@mail.com,Problème de connexion,True
+2026-11-24 08:17:00,envoyé,vente,youssef@mail.com,Votre facture de vente,True
+2026-11-24 09:49:00,reçu,commande,salma@mail.com,Commande express #4396,False
+2026-11-24 09:18:00,envoyé,support,omar@mail.com,Question sur ma facture,True
+2026-11-24 10:52:00,reçu,commande,youssef@mail.com,Commande express #3399,False
+2026-11-24 10:05:00,reçu,support,salma@mail.com,Problème de connexion,True
+2026-11-24 10:30:00,reçu,support,sara@mail.com,Question sur ma facture,True
+2026-11-24 10:08:00,envoyé,support,omar@mail.com,Question sur ma facture,True
+2026-11-24 11:03:00,reçu,réclamation,omar@mail.com,Remboursement demandé,False
+2026-11-24 13:45:00,reçu,commande,sara@mail.com,Commande express #2647,False
+2026-11-24 13:59:00,reçu,support,salma@mail.com,Question sur ma facture,True
+2026-11-24 13:30:00,reçu,commande,youssef@mail.com,Commande en gros #4267,False
+2026-11-24 13:58:00,envoyé,vente,omar@mail.com,Offre spéciale -20%,True
+2026-11-24 13:34:00,envoyé,vente,amine@mail.com,Votre facture de vente,True
+2026-11-24 14:56:00,reçu,commande,salma@mail.com,Nouvelle commande #1595,True
+2026-11-24 15:00:00,reçu,réclamation,omar@mail.com,Retard de livraison,True
+2026-11-24 15:18:00,reçu,commande,omar@mail.com,Commande express #9901,True
